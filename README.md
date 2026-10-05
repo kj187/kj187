@@ -10,6 +10,8 @@ Currently **Senior Platform Engineer @ [AOE](https://www.aoe.com/)**.
 
 ## 🚀 Featured project: Jarvis
 
+<a href="https://github.com/kj187/jarvis"><img src="assets/jarvis-logo.png" alt="Jarvis logo" width="150" align="right"></a>
+
 [**Jarvis**](https://github.com/kj187/jarvis) is an open-source web frontend for Prometheus Alertmanager, built for on-call teams: interactive, realtime and self-hosted. It is about acting on alerts, not just watching them.
 
 - Realtime alerts via WebSocket, persistent history in SQLite or PostgreSQL
