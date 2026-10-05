@@ -26,7 +26,7 @@ Three Proxmox nodes, four VLANs, everything as code: OpenTofu provisions, Ansibl
 ## 📊 GitHub in numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kj187&show_icons=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs&hide_title=true&bg_color=0d121d&text_color=a7afc0&icon_color=4c9dff&border_color=4c9dff&border_radius=8" alt="Total GitHub stars and commits of kj187">
+  <img src="assets/stats.svg" alt="Total GitHub stars and commits of kj187" width="100%">
 </p>
 
 ## 🧰 Tech
