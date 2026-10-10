@@ -11,7 +11,7 @@
 <g transform="translate(140 0)">
   <polygon points="28,52 34.2,66.5 50,67.9 38,78.4 41.6,93.8 28,85.6 14.4,93.8 18,78.4 6,67.9 21.8,66.5" transform="translate(0 22)" fill="none" stroke="#4c9dff" stroke-width="3" stroke-linejoin="round"/>
   <text x="76" y="76" font-family="Menlo, Courier New, monospace" font-size="16" letter-spacing="3" fill="#4c9dff">TOTAL STARS</text>
-  <text x="76" y="140" font-size="64" font-weight="700" letter-spacing="-1.5" fill="#ffffff">194</text>
+  <text x="76" y="140" font-size="64" font-weight="700" letter-spacing="-1.5" fill="#ffffff">195</text>
   <text x="76" y="170" font-size="20" fill="#a7afc0">across my public repositories</text>
 </g>
 <line x1="640" y1="48" x2="640" y2="192" stroke="#fff" stroke-opacity=".12"/>
